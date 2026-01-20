@@ -12,7 +12,7 @@ This capstone challenges you to build a predictive Bitcoin DCA (Dollar Cost Aver
 *   **Data provided:** Market (price/OHLC/volume/BVOL), on-chain (UTXO/exchange flows/etc.), macro indicators, sentiment metrics; external data welcome after core exploration.
 *   **Tech expectations:** Python-first; time-series/statistical analysis + ML; API/data pipelines; interactive dashboards (Dash/Plotly or Streamlit).
 *   **Deliverables:** MIT-licensed open-source repo(s) with reproducible models, interactive dashboards, tutorials/notebooks/READMEs, and a final presentation.
-*   **IP/Licensing:** Everything produced is open-sourced under **MIT** (contributors retain attribution).
+*   **IP/Licensing:** Code, analysis, and documentation are open-sourced under **MIT** (contributors retain attribution). The provided data is not covered by the MIT license and retains its original licensing terms.
 *   **Contacts:** Mohammad Ashkani (Comms Lead) and Mateusz Faltyn (Technical Lead).
 
 

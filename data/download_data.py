@@ -6,7 +6,7 @@ import gdown
 # Configuration
 # Main folder ID from: https://drive.google.com/drive/folders/1gizJ_n-QCnE8qrFM-BU3J_ZpaR3HCjn7
 FOLDER_ID = "1gizJ_n-QCnE8qrFM-BU3J_ZpaR3HCjn7"
-DATA_DIR = "data"
+DATA_DIR = "./"
 ALLOWED_EXTENSIONS = {".parquet", ".md", ".csv"}
 
 

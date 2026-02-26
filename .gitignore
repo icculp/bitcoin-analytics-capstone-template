@@ -1,6 +1,9 @@
 # OS specific
 .DS_Store
 
+data/Polymarket/
+data/Coin Metrics/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

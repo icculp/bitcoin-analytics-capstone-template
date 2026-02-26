@@ -55,9 +55,9 @@ This repository provides a template and framework for:
 
 2.  **Setup environment:**
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # Windows: venv\\Scripts\\activate
-    pip install -r requirements.txt
+    mamba env create -f environment.yml
+    mamba activate practicum
+    jupytext --set-formats ipynb,py:percent *.ipynb
     ```
 
 ### 2. Data Acquisition
